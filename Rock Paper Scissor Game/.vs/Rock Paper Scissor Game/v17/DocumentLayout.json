@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\My github\\Rock-Paper-Scissor-game\\Rock Paper Scissor Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377034AC-D030-4B9A-832E-D5DE6DA35A2B}|Rock Paper Scissor Game\\Rock Paper Scissor Game.vcxproj|D:\\Projects\\My github\\Rock-Paper-Scissor-game\\Rock Paper Scissor Game\\Rock Paper Scissor Game\\Rock Paper Scissor Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{377034AC-D030-4B9A-832E-D5DE6DA35A2B}|Rock Paper Scissor Game\\Rock Paper Scissor Game.vcxproj|solutionrelative:Rock Paper Scissor Game\\Rock Paper Scissor Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock Paper Scissor Game.cpp",
+              "DocumentMoniker": "D:\\Projects\\My github\\Rock-Paper-Scissor-game\\Rock Paper Scissor Game\\Rock Paper Scissor Game\\Rock Paper Scissor Game.cpp",
+              "RelativeDocumentMoniker": "Rock Paper Scissor Game\\Rock Paper Scissor Game.cpp",
+              "ToolTip": "D:\\Projects\\My github\\Rock-Paper-Scissor-game\\Rock Paper Scissor Game\\Rock Paper Scissor Game\\Rock Paper Scissor Game.cpp",
+              "RelativeToolTip": "Rock Paper Scissor Game\\Rock Paper Scissor Game.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T17:20:56.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
